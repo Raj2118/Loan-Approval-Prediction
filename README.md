@@ -30,6 +30,10 @@ The project directory contains the following files and folders:
 ## Setup Instructions
 
 ### 1. Clone the Repository
+```bash
+git clone [https://github.com/Raj2118/Loan-Approval-Prediction.git]
+cd Loan-Approval-Prediction
+```
 
 ### 2. Set Up a Virtual Environment (optional but recommended)
 
